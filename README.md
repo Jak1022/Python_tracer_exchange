@@ -1812,6 +1812,7 @@ Time 6Li_abundance_in_electrode 6Li_abundance_in_electrolyte
 1798 0.3382 0.2734
 1799 0.3381 0.2735
 1800 0.3380 0.2735
+Simulation run time: 0.16 seconds
 ```
 If you find this code useful, please consider citing the following work:
 ```
