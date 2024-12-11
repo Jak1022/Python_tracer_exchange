@@ -1817,7 +1817,7 @@ Simulation run time: 0.16 seconds
 If you find this code useful, please consider citing the following work:
 ```
 @article{dendrite_NM,
-  author={Liu, Haoyu and Chen, Yudan and Chien, Po-Hsiu and Amouzandeh, Ghoncheh and Hou, Dewen and Truong, Erica and Oyekunle, Ifeoluwa, and Bhagu, Jamini and Holder, Samuel and Xiong, Hui and Gorkov, Peter and Rosenberg, Jens and Grant, Samuel and Hu, Yan-Yan},
+  author={Liu, H.; Chen, Y.; Chien, P.-H.; Amouzandeh, G.; Hou, D.; Truong, E.; Oyekunle, I.; Bhagu, J.; Holder, S.; Xiong, H.; Gor'kov, P.; Rosenberg, J.; Grant, S.; Hu, Y.-Y.},
   doi={10.1038/s41563-024-02094-6},
   journal={Nature Materials},
   title={Dendrite formation in solid-state batteries arising from lithium platingand electrolyte reduction},
