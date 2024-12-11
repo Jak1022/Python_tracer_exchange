@@ -1818,9 +1818,9 @@ If you find this code useful, please consider citing the following work:
 ```
 @article{dendrite_NM,
   author={Liu, Haoyu and Chen, Yudan and Chien, Po-Hsiu and Amouzandeh, Ghoncheh and Hou, Dewen and Truong, Erica and Oyekunle, Ifeoluwa, and Bhagu, Jamini and Holder, Samuel and Xiong, Hui and Gorkov, Peter and Rosenberg, Jens and Grant, Samuel and Hu, Yan-Yan},
-  doi={},
-  journal={},
-  title={Dendrite Formation in Oxides: A New Mechanism and Stalled Growth},
-  year={}
+  doi={10.1038/s41563-024-02094-6},
+  journal={Nature Materials},
+  title={Dendrite formation in solid-state batteries arising from lithium platingand electrolyte reduction},
+  year={2024}
 }
 ```
